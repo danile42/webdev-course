@@ -1,0 +1,11 @@
+.container .row {
+  padding: 0 20px 0;
+}
+
+.menu-section {
+  background-color: lightgray;
+}
+
+.menu-section h2 {
+  font-size: 1.4em;
+}
